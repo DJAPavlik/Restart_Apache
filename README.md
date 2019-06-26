@@ -11,3 +11,9 @@ From a command line call re.sh with two arguments.
 
 e.g.
 ./re.sh 000* restart
+
+## Note:
+
+Service directives are limited to 'restart' or 'reload' only.
+
+
