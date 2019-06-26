@@ -1,7 +1,6 @@
 # Restart_Apache_New
 A simple bash script for reloading Apache 
 
-
 ## Usage
 Clone the repository or download the latest release. 
 
@@ -11,8 +10,6 @@ From a command line call re.sh with two arguments.
 
 e.g.
 ./re.sh 000* restart
-
-## Note:
 
 Service directives are limited to 'restart' or 'reload' only.
 
