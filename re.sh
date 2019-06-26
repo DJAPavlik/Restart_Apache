@@ -29,6 +29,6 @@ then
     fi
 
 else
-    echo "$0 requires two parameters {virtual-host} {restart|reload}"
+    echo "ERROR: $0 requires two parameters {virtual-host} {restart|reload}"
     exit 1
 fi
