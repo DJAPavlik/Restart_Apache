@@ -13,4 +13,4 @@ e.g.
 
 Service directives are limited to 'restart' or 'reload' only.
 
-
+Version 0.2.2 - Color prompts added 2019-06-26
